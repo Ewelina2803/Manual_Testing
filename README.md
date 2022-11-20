@@ -10,5 +10,11 @@ My name is Ewelina Stańczak. I am a Chemical Technologist with more than 6 year
 *Xampp - integrated package consisting mainly of an Apache server, MySQL database and interpreters for scripts written in PHP and Perl
 
 ## Courses
-*Podstawy manualnego testowania oprogramowania - Training organizer: Tester Oprogramowania/Udemy
-[Certificate](https://www.udemy.com/certificate/UC-2bf27513-8b4c-4888-af01-54cc2ee0033c/)
+***Podstawy manualnego testowania oprogramowania** - [Certificate](https://www.udemy.com/certificate/UC-2bf27513-8b4c-4888-af01-54cc2ee0033c/)
+Organizer: Tester Oprogramowania/Udemy
+
+***Python dla początkujących** - [Certificate](https://www.udemy.com/certificate/UC-f0b5fd98-c3ed-44d7-a41d-6516b1fe59a6/)
+Organizer: Rafał Mobilo/Udemy
+
+***Kurs SQL od podstaw | MySQL** - [Certificate](https://www.udemy.com/certificate/UC-77a75614-4a6e-48fb-be58-f87732f1503f/)
+Organizer: Testowanie Oprogramowania/Udemy
