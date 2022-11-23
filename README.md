@@ -35,3 +35,5 @@ My name is Ewelina Stańczak. I am a Chemical Technologist with more than 6 year
 * [https://testerzy.pl/](https://testerzy.pl/)
 
 ## Test documentations
+### My Test Plan and Test Cases examples
+* [Duka online store - Product Finder](https://drive.google.com/file/d/1kDYlIwi2tu2m44wmieAqJSpX1NRgYvRD/view?usp=share_link)
