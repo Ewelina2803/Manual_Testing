@@ -9,6 +9,7 @@ My name is Ewelina Stańczak. I am a Chemical Technologist with more than 6 year
 * qTest - test case management tool
 * Windows - operating system
 * Xampp - integrated package consisting mainly of an Apache server, MySQL database and interpreters for scripts written in PHP and Perl
+* Chrome DevTools - a set of web developer tools built directly into the Google Chrome browser
 
 ## Courses
 * **Podstawy manualnego testowania oprogramowania** - [Certificate](https://www.udemy.com/certificate/UC-2bf27513-8b4c-4888-af01-54cc2ee0033c/)
@@ -32,12 +33,13 @@ My name is Ewelina Stańczak. I am a Chemical Technologist with more than 6 year
 * [https://remigiuszbednarczyk.pl/](https://remigiuszbednarczyk.pl/)  
 * [https://www.wyszkolewas.com.pl/](https://www.wyszkolewas.com.pl/)  
 * [https://pwicherski.gitbook.io](https://pwicherski.gitbook.io)  
-* [https://www.flynerd.pl/](https://www.flynerd.pl/)  
-* [https://testerzy.pl/](https://testerzy.pl/)
+* [https://www.flynerd.pl](https://www.flynerd.pl/)  
+* [https://testerzy.pl](https://testerzy.pl/)
+* [https://www.softwaretestinghelp.com](https://www.softwaretestinghelp.com/)
 
 ## Test documentations
 ### My Test Plan and Test Cases examples
 * [Duka online store - Product Finder](https://drive.google.com/file/d/1kDYlIwi2tu2m44wmieAqJSpX1NRgYvRD/view?usp=share_link)
 
 ### Bug Reports examples
-* [Bug Repports for Mr Buggy 6](https://drive.google.com/drive/folders/1HgwdGQcQh-VbighoJAWIMn_1CX3b19RS?usp=share_link)
+* [Bug Reports for Mr Buggy 6](https://drive.google.com/drive/folders/1HgwdGQcQh-VbighoJAWIMn_1CX3b19RS?usp=share_link)
