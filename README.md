@@ -38,8 +38,11 @@ My name is Ewelina Stańczak. I am a Chemical Technologist with more than 6 year
 * [https://www.softwaretestinghelp.com](https://www.softwaretestinghelp.com/)
 
 ## Test documentations
-### My Test Plan and Test Cases
+### Test Plan and Test Cases
 * [Duka online store - Product Finder](https://drive.google.com/file/d/1kDYlIwi2tu2m44wmieAqJSpX1NRgYvRD/view?usp=share_link)
 
 ### Bug Reports
 * [Bug Reports for Mr Buggy 6](https://drive.google.com/drive/folders/1HgwdGQcQh-VbighoJAWIMn_1CX3b19RS?usp=share_link)
+
+### Test Scenario
+* [A test scenario of registering for empik.com](https://drive.google.com/file/d/1TwL08Yf1BmLBSHt_KbfaGM4gFlmf_mik/view?usp=share_link)
