@@ -28,6 +28,7 @@ My name is Ewelina Stańczak. I am a Chemical Technologist with more than 6 year
 * **Kurs Tester Manualny** [Link](https://www.facebook.com/groups/246926649684135/)
 * **Testowanie oprogramowania - Materiały | Porady** [Link](https://www.facebook.com/groups/testowanie/)
 * **Programowanie - wsparcie na starcie** [Link](https://www.facebook.com/groups/157790704649699/)
+* **Gildia Testerów** [Link](https://m.facebook.com/381671678851355/)
 
 ## Blogs, thematic websites
 * [https://remigiuszbednarczyk.pl/](https://remigiuszbednarczyk.pl/)  
