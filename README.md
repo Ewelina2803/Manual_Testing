@@ -24,6 +24,9 @@ My name is Ewelina Stańczak. I am a Chemical Technologist with more than 6 year
 * **Wprowadzenie do Git i GitHub**
 <br />Organizer: Samuraj Programowania/Udemy
 
+* **Praktyczny kurs testowania oprogramowania** - [Certificate](https://www.udemy.com/certificate/UC-9ee0ec7e-5a4c-460d-8ec7-078096061353/)
+<br />Organizer: Testowanie Oprogramowania/Udemy
+
 ## Facebook testing groups
 * **Kurs Tester Manualny** [Link](https://www.facebook.com/groups/246926649684135/)
 * **Testowanie oprogramowania - Materiały | Porady** [Link](https://www.facebook.com/groups/testowanie/)
