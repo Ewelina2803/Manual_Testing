@@ -50,3 +50,6 @@ My name is Ewelina Stańczak. I am a Chemical Technologist with more than 6 year
 
 ### Test Scenarios
 * [Test Scenarios for Empik page](https://drive.google.com/file/d/1wXWj8oFpBHKNZjpEgcdO6Wk-TDNRZRRU/view?usp=share_link)
+
+### Exploratory Testing
+
