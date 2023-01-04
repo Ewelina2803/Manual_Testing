@@ -52,4 +52,4 @@ My name is Ewelina Stańczak. I am a Chemical Technologist with more than 6 year
 * [Test Scenarios for Empik page](https://drive.google.com/file/d/1wXWj8oFpBHKNZjpEgcdO6Wk-TDNRZRRU/view?usp=share_link)
 
 ### Exploratory Testing
-
+* [Exploratory Testing Report of Kącik Zbójnicki](https://drive.google.com/file/d/1T5FxrKeml43Ig_2FsjyZlFcXD3P4UoMb/view?usp=share_link)
