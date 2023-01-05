@@ -41,7 +41,7 @@ My name is Ewelina Stańczak. I am a Chemical Technologist with more than 6 year
 
 ## Test documentations
 ### Test Plan and Test Cases
-* [Duka online store - Product Finder](https://drive.google.com/file/d/1kDYlIwi2tu2m44wmieAqJSpX1NRgYvRD/view?usp=share_link)
+* [Duka - Product Finder](https://drive.google.com/file/d/1kDYlIwi2tu2m44wmieAqJSpX1NRgYvRD/view?usp=share_link)
 * [House of Beauty - Cart](https://drive.google.com/drive/folders/1h9RhfIVu0S3TVGnXFt0Qd0_fjY4E6y5W?usp=share_link)
 
 ### Bug Reports
@@ -51,4 +51,4 @@ My name is Ewelina Stańczak. I am a Chemical Technologist with more than 6 year
 * [Test Scenarios for Empik website](https://drive.google.com/file/d/1wXWj8oFpBHKNZjpEgcdO6Wk-TDNRZRRU/view?usp=share_link)
 
 ### Exploratory Testing
-* [Exploratory testing report of Kącik Zbójnicki website](https://drive.google.com/file/d/1T5FxrKeml43Ig_2FsjyZlFcXD3P4UoMb/view?usp=share_link)
+* [Exploratory testing report for Kącik Zbójnicki website](https://drive.google.com/file/d/1T5FxrKeml43Ig_2FsjyZlFcXD3P4UoMb/view?usp=share_link)
