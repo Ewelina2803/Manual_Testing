@@ -42,7 +42,7 @@ My name is Ewelina Stańczak. I am a Chemical Technologist with more than 6 year
 ## Test documentations
 ### Test Plan and Test Cases
 * [Duka online store - Product Finder](https://drive.google.com/file/d/1kDYlIwi2tu2m44wmieAqJSpX1NRgYvRD/view?usp=share_link)
-* [House of Beauty - Cart]
+* [House of Beauty - Cart](https://drive.google.com/drive/folders/1h9RhfIVu0S3TVGnXFt0Qd0_fjY4E6y5W?usp=share_link)
 
 ### Bug Reports
 * [Bug Reports for Mr Buggy 6](https://drive.google.com/drive/folders/1HgwdGQcQh-VbighoJAWIMn_1CX3b19RS?usp=share_link)
