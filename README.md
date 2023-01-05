@@ -8,8 +8,6 @@ My name is Ewelina Stańczak. I am a Chemical Technologist with more than 6 year
 * Jira - testing management tool
 * qTest - test case management tool
 * Windows - operating system
-* Xampp - integrated package consisting mainly of an Apache server, MySQL database and interpreters for scripts written in PHP and Perl
-* Chrome DevTools - a set of web developer tools built directly into the Google Chrome browser
 
 ## Courses
 * **Podstawy manualnego testowania oprogramowania** - [Certificate](https://www.udemy.com/certificate/UC-2bf27513-8b4c-4888-af01-54cc2ee0033c/)
@@ -44,6 +42,7 @@ My name is Ewelina Stańczak. I am a Chemical Technologist with more than 6 year
 ## Test documentations
 ### Test Plan and Test Cases
 * [Duka online store - Product Finder](https://drive.google.com/file/d/1kDYlIwi2tu2m44wmieAqJSpX1NRgYvRD/view?usp=share_link)
+* [House of Beauty - Cart]
 
 ### Bug Reports
 * [Bug Reports for Mr Buggy 6](https://drive.google.com/drive/folders/1HgwdGQcQh-VbighoJAWIMn_1CX3b19RS?usp=share_link)
