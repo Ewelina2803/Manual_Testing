@@ -46,7 +46,7 @@ My name is Ewelina Stańczak. I am a Chemical Technologist with more than 6 year
 
 ### Bug Reports
 * [Bug Reports for Mr Buggy 6](https://drive.google.com/drive/folders/1HgwdGQcQh-VbighoJAWIMn_1CX3b19RS?usp=share_link)
-* [Bug Reports in Jira – Modivo](https://drive.google.com/file/d/1e9q4DVSzP9NsTWd5sVsdQzsK64JFV29V/view?usp=share_link)
+* [Bug Reports in Jira for Modivo](https://drive.google.com/file/d/1e9q4DVSzP9NsTWd5sVsdQzsK64JFV29V/view?usp=share_link)
 
 * [Brief information about Jira Software](https://drive.google.com/file/d/1jYpLz2zzHhYp4kKgmwxO9vfAKuOdR_w0/view?usp=share_link)
 
