@@ -5,7 +5,7 @@ My name is Ewelina Stańczak. I am a Chemical Technologist with 7 years of exper
 
 ## uTest
 I am gaining my experience as a software tester while testing web and mobile applications on the uTest platform. During the exercises, as well as later paid projects, I found over 60 bugs that I described in the reports. I made 14 test cases for various websites and applications.
-Thanks to my work, I have a silver badge in functional tests and gold in localization tests. I was also invited to the All Stars Academy for the testers who scored the best in the academy tasks.
+Thanks to my work, I have a silver badge in functional tests and gold in localization tests. I was also invited to the All Stars Academy for the testers who who got the best results when solving tasks from the Academy.
 This job gives me a lot of satisfaction :)
 
 ## Test documentations
