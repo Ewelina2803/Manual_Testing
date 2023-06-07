@@ -1,7 +1,12 @@
 # Portfolio
 
 ## About me
-My name is Ewelina Stańczak. I am a Chemical Technologist with 7 years of experience in a manufacturing and trading company. I am open to new challenges, so I started self-study of software testing, which brings me a lot of satisfaction. I would like to develop further in this field. I am gaining my first experience as a software tester while testing web and mobile applications on the uTest platform. On GitHub I will upload the projects I make while learning testing.
+My name is Ewelina Stańczak. I am a Chemical Technologist with 7 years of experience in a manufacturing and trading company. In my current job, I also deal with quality control, so I know how important the final properties of the product are and that they should be checked with great accuracy. I think that this is a valuable experience also in the work of a software tester. I am open to new challenges, so I started self-study of software testing, which brings me a lot of satisfaction. I would like to develop further in this field. On GitHub I will upload the projects I make while learning testing.
+
+## uTest
+I am gaining my first experience as a software tester while testing web and mobile applications on the uTest platform. During the exercises, as well as later paid projects, I found over 60 bugs that I described in the reports. I made 14 test cases for various websites and applications.
+Thanks to my work, I have a silver badge in functional tests and gold in localization tests. I was also invited to the All Stars Academy for the testers who scored the best in the academy tasks.
+This job gives me a lot of satisfaction :)
 
 ## Tools
 * TestLink - a web-based test management system that facilitates software quality assurance
