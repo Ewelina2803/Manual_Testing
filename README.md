@@ -19,6 +19,12 @@ This job gives me a lot of satisfaction :)
 
 * [Brief information about Jira Software](https://drive.google.com/file/d/1jYpLz2zzHhYp4kKgmwxO9vfAKuOdR_w0/view?usp=share_link)
 
+### Test Scenarios
+* [Test Scenarios for Empik website](https://drive.google.com/file/d/1wXWj8oFpBHKNZjpEgcdO6Wk-TDNRZRRU/view?usp=share_link)
+
+### Exploratory Testing
+* [Exploratory testing report for Kącik Zbójnicki website](https://drive.google.com/file/d/1T5FxrKeml43Ig_2FsjyZlFcXD3P4UoMb/view?usp=share_link)
+
 ## Tools
 * TestLink - a web-based test management system that facilitates software quality assurance
 * Jira - testing management tool
@@ -54,10 +60,3 @@ This job gives me a lot of satisfaction :)
 * [https://www.flynerd.pl](https://www.flynerd.pl/)  
 * [https://testerzy.pl](https://testerzy.pl/)
 * [https://www.softwaretestinghelp.com](https://www.softwaretestinghelp.com/)
-
-
-### Test Scenarios
-* [Test Scenarios for Empik website](https://drive.google.com/file/d/1wXWj8oFpBHKNZjpEgcdO6Wk-TDNRZRRU/view?usp=share_link)
-
-### Exploratory Testing
-* [Exploratory testing report for Kącik Zbójnicki website](https://drive.google.com/file/d/1T5FxrKeml43Ig_2FsjyZlFcXD3P4UoMb/view?usp=share_link)
