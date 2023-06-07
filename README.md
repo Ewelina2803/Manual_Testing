@@ -8,6 +8,17 @@ I am gaining my experience as a software tester while testing web and mobile app
 Thanks to my work, I have a silver badge in functional tests and gold in localization tests. I was also invited to the All Stars Academy for the testers who scored the best in the academy tasks.
 This job gives me a lot of satisfaction :)
 
+## Test documentations
+### Test Plan and Test Cases
+* [Duka - Product Finder](https://drive.google.com/file/d/1kDYlIwi2tu2m44wmieAqJSpX1NRgYvRD/view?usp=share_link)
+* [House of Beauty - Cart](https://drive.google.com/drive/folders/1h9RhfIVu0S3TVGnXFt0Qd0_fjY4E6y5W?usp=share_link)
+
+### Bug Reports
+* [Bug Reports for Mr Buggy 6](https://drive.google.com/drive/folders/1HgwdGQcQh-VbighoJAWIMn_1CX3b19RS?usp=share_link)
+* [Bug Reports in Jira for Modivo](https://drive.google.com/file/d/1e9q4DVSzP9NsTWd5sVsdQzsK64JFV29V/view?usp=share_link)
+
+* [Brief information about Jira Software](https://drive.google.com/file/d/1jYpLz2zzHhYp4kKgmwxO9vfAKuOdR_w0/view?usp=share_link)
+
 ## Tools
 * TestLink - a web-based test management system that facilitates software quality assurance
 * Jira - testing management tool
@@ -44,16 +55,6 @@ This job gives me a lot of satisfaction :)
 * [https://testerzy.pl](https://testerzy.pl/)
 * [https://www.softwaretestinghelp.com](https://www.softwaretestinghelp.com/)
 
-## Test documentations
-### Test Plan and Test Cases
-* [Duka - Product Finder](https://drive.google.com/file/d/1kDYlIwi2tu2m44wmieAqJSpX1NRgYvRD/view?usp=share_link)
-* [House of Beauty - Cart](https://drive.google.com/drive/folders/1h9RhfIVu0S3TVGnXFt0Qd0_fjY4E6y5W?usp=share_link)
-
-### Bug Reports
-* [Bug Reports for Mr Buggy 6](https://drive.google.com/drive/folders/1HgwdGQcQh-VbighoJAWIMn_1CX3b19RS?usp=share_link)
-* [Bug Reports in Jira for Modivo](https://drive.google.com/file/d/1e9q4DVSzP9NsTWd5sVsdQzsK64JFV29V/view?usp=share_link)
-
-* [Brief information about Jira Software](https://drive.google.com/file/d/1jYpLz2zzHhYp4kKgmwxO9vfAKuOdR_w0/view?usp=share_link)
 
 ### Test Scenarios
 * [Test Scenarios for Empik website](https://drive.google.com/file/d/1wXWj8oFpBHKNZjpEgcdO6Wk-TDNRZRRU/view?usp=share_link)
