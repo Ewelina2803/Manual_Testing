@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About me
-My name is Ewelina Stańczak. I am a Chemical Technologist with 7 years of experience in a manufacturing and trading company. In my current job, I also work with quality control, so I know how important the final properties of the product are and that they should be checked with great accuracy. I think that this is a valuable experience also in the work of a software tester. I am open to new challenges, so I started self-study of software testing, which brings me a lot of satisfaction. I would like to develop further in this field. On GitHub I will upload the projects I make while learning testing.
+My name is Ewelina Stańczak. I am a person curious about news. I like to develop myself, expand my knowledge. For this reason, I started to learn software testing, which interested me a lot. Software testing is like product quality control, which I deal with in my professional work. 
 
 ## uTest
 I am gaining my experience as a software tester while testing web and mobile applications on the uTest platform. During the exercises, as well as later paid projects, I found over 60 bugs that I described in the reports. I made 14 test cases for various websites and applications.
